@@ -12,14 +12,14 @@
 <div align="center">
 
 <p>
-<a href="https://status.tavily.com/">
-  <img src="https://img.shields.io/badge/Status_•_99.57%25_Uptime-00d084?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status - 99.57% Uptime"/>
-</a>
 <a href="https://pepy.tech/projects/tavily-python">
-  <img src="https://img.shields.io/pypi/dm/tavily-python?style=for-the-badge&logo=python&logoColor=white&label=Python%20Downloads&color=f78166" alt="Python Downloads"/>
+  <img src="https://img.shields.io/pypi/dt/tavily-python?style=for-the-badge&logo=python&logoColor=white&label=Python%20Downloads&color=f78166" alt="Python Downloads"/>
 </a>
 <a href="https://www.npmjs.com/package/@tavily/core">
-  <img src="https://img.shields.io/npm/dm/@tavily/core?style=for-the-badge&logo=npm&logoColor=white&label=NPM%20Downloads&color=CB3837" alt="NPM Downloads"/>
+  <img src="https://img.shields.io/npm/dt/@tavily/core?style=for-the-badge&logo=npm&logoColor=white&label=NPM%20Downloads&color=CB3837" alt="NPM Downloads"/>
+</a>
+<a href="https://www.tavily.com/">
+  <img src="https://img.shields.io/badge/Trusted_by_600K%2B_Developers-56d4dd?style=for-the-badge&logo=users&logoColor=0d1117" alt="Trusted by 600K+ Developers"/>
 </a>
 </p>
 

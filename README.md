@@ -60,10 +60,6 @@
 
 ## 🚀 Getting Started
 
-
-<div align="center">
-
-<p>
 <a href="https://app.tavily.com/home">
   <img src="https://img.shields.io/badge/Get_API_Key_for_Free-58a6ff?style=for-the-badge&logo=key&logoColor=white" alt="Get API Key for Free"/>
 </a>
@@ -73,9 +69,6 @@
 <a href="https://docs.tavily.com/welcome">
   <img src="https://img.shields.io/badge/Learn_More_•_Docs-56d4dd?style=for-the-badge&logo=gitbook&logoColor=0d1117" alt="Learn More - Docs"/>
 </a>
-</p>
-
-</div>
 
 ### Python
 

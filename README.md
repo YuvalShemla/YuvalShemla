@@ -15,6 +15,9 @@
 <a href="https://status.tavily.com/">
   <img src="https://img.shields.io/badge/Status_•_99.57%25_Uptime-00d084?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status - 99.57% Uptime"/>
 </a>
+<a href="https://www.tavily.com/">
+  <img src="https://img.shields.io/badge/Trusted_by_600K%2B_Developers-56d4dd?style=for-the-badge&logo=users&logoColor=0d1117" alt="Trusted by 600K+ Developers"/>
+</a>
 <a href="https://pepy.tech/projects/tavily-python">
   <img src="https://img.shields.io/badge/Downloads_•_5.58M-f78166?style=for-the-badge&logo=python&logoColor=white" alt="Downloads - 5.58M"/>
 </a>
@@ -68,6 +71,23 @@ Tavily equips developers with fast, reliable APIs to programmatically **search**
 
 [![use-cases](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=use-cases&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&icon_color=f78166)](https://github.com/tavily-ai/use-cases)
 [![tavily-crawl-beta-test](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-crawl-beta-test&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&icon_color=f78166)](https://github.com/tavily-ai/tavily-crawl-beta-test)
+
+</div>
+
+---
+
+## 🚀 Get Started
+
+<div align="center">
+
+<p>
+<a href="https://app.tavily.com/home">
+  <img src="https://img.shields.io/badge/Get_API_Key_for_Free-58a6ff?style=for-the-badge&logo=key&logoColor=white" alt="Get API Key for Free"/>
+</a>
+<a href="https://docs.tavily.com/welcome">
+  <img src="https://img.shields.io/badge/Learn_More_•_Docs-56d4dd?style=for-the-badge&logo=gitbook&logoColor=0d1117" alt="Learn More - Docs"/>
+</a>
+</p>
 
 </div>
 

@@ -142,37 +142,219 @@ See our **[docs](https://docs.tavily.com)** for full API reference & guides.
 
 ---
 
-## 🤝 Community & Support
+## 🤝 Community & Support Options
+
+### Option 1: Modern Tech (Recommended)
 
 <div align="center">
 
 ### 🔑 Getting Started
 <p>
 <a href="https://app.tavily.com/api-keys">
-  <img src="https://img.shields.io/badge/Get_API_Keys-4F8CC9?style=for-the-badge&logo=key&logoColor=white" alt="API Keys"/>
+  <img src="https://img.shields.io/badge/Get_API_Keys-58a6ff?style=for-the-badge&logo=key&logoColor=white" alt="API Keys"/>
 </a>
 <a href="https://playground.tavily.com">
-  <img src="https://img.shields.io/badge/Try_Playground-FFD700?style=for-the-badge&logo=play&logoColor=black" alt="Playground"/>
+  <img src="https://img.shields.io/badge/Try_Playground-f78166?style=for-the-badge&logo=play&logoColor=white" alt="Playground"/>
 </a>
 </p>
 
 ### 📚 Resources  
 <p>
 <a href="https://docs.tavily.com">
-  <img src="https://img.shields.io/badge/Documentation-4F8CC9?style=for-the-badge&logo=gitbook&logoColor=white" alt="Docs"/>
+  <img src="https://img.shields.io/badge/Documentation-56d4dd?style=for-the-badge&logo=gitbook&logoColor=0d1117" alt="Docs"/>
 </a>
 <a href="https://blog.tavily.com">
-  <img src="https://img.shields.io/badge/Engineering_Blog-FF6B6B?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/>
+  <img src="https://img.shields.io/badge/Engineering_Blog-ffa657?style=for-the-badge&logo=hashnode&logoColor=0d1117" alt="Blog"/>
 </a>
 </p>
 
 ### 💬 Community
 <p>
 <a href="https://discord.gg/tavily">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  <img src="https://img.shields.io/badge/Discord-58a6ff?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 <a href="https://github.com/tavily-ai/tavily-python/issues">
-  <img src="https://img.shields.io/badge/GitHub_Issues-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Issues"/>
+  <img src="https://img.shields.io/badge/GitHub_Issues-f78166?style=for-the-badge&logo=github&logoColor=white" alt="Issues"/>
+</a>
+</p>
+
+</div>
+
+### Option 2: GitHub Native
+
+<div align="center">
+
+### 🔑 Getting Started
+<p>
+<a href="https://app.tavily.com/api-keys">
+  <img src="https://img.shields.io/badge/Get_API_Keys-58a6ff?style=for-the-badge&logo=key&logoColor=white" alt="API Keys"/>
+</a>
+<a href="https://playground.tavily.com">
+  <img src="https://img.shields.io/badge/Try_Playground-f85149?style=for-the-badge&logo=play&logoColor=white" alt="Playground"/>
+</a>
+</p>
+
+### 📚 Resources  
+<p>
+<a href="https://docs.tavily.com">
+  <img src="https://img.shields.io/badge/Documentation-7c3aed?style=for-the-badge&logo=gitbook&logoColor=white" alt="Docs"/>
+</a>
+<a href="https://blog.tavily.com">
+  <img src="https://img.shields.io/badge/Engineering_Blog-059669?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/>
+</a>
+</p>
+
+### 💬 Community
+<p>
+<a href="https://discord.gg/tavily">
+  <img src="https://img.shields.io/badge/Discord-fbbf24?style=for-the-badge&logo=discord&logoColor=21262d" alt="Discord"/>
+</a>
+<a href="https://github.com/tavily-ai/tavily-python/issues">
+  <img src="https://img.shields.io/badge/GitHub_Issues-f97316?style=for-the-badge&logo=github&logoColor=white" alt="Issues"/>
+</a>
+</p>
+
+</div>
+
+### Option 3: Cyberpunk/Hacker
+
+<div align="center">
+
+### 🔑 Getting Started
+<p>
+<a href="https://app.tavily.com/api-keys">
+  <img src="https://img.shields.io/badge/Get_API_Keys-7aa2f7?style=for-the-badge&logo=key&logoColor=1a1b26" alt="API Keys"/>
+</a>
+<a href="https://playground.tavily.com">
+  <img src="https://img.shields.io/badge/Try_Playground-9ece6a?style=for-the-badge&logo=play&logoColor=1a1b26" alt="Playground"/>
+</a>
+</p>
+
+### 📚 Resources  
+<p>
+<a href="https://docs.tavily.com">
+  <img src="https://img.shields.io/badge/Documentation-bb9af7?style=for-the-badge&logo=gitbook&logoColor=1a1b26" alt="Docs"/>
+</a>
+<a href="https://blog.tavily.com">
+  <img src="https://img.shields.io/badge/Engineering_Blog-7dcfff?style=for-the-badge&logo=hashnode&logoColor=1a1b26" alt="Blog"/>
+</a>
+</p>
+
+### 💬 Community
+<p>
+<a href="https://discord.gg/tavily">
+  <img src="https://img.shields.io/badge/Discord-f7768e?style=for-the-badge&logo=discord&logoColor=1a1b26" alt="Discord"/>
+</a>
+<a href="https://github.com/tavily-ai/tavily-python/issues">
+  <img src="https://img.shields.io/badge/GitHub_Issues-e0af68?style=for-the-badge&logo=github&logoColor=1a1b26" alt="Issues"/>
+</a>
+</p>
+
+</div>
+
+### Option 4: Warm Professional
+
+<div align="center">
+
+### 🔑 Getting Started
+<p>
+<a href="https://app.tavily.com/api-keys">
+  <img src="https://img.shields.io/badge/Get_API_Keys-61dafb?style=for-the-badge&logo=key&logoColor=1e1e1e" alt="API Keys"/>
+</a>
+<a href="https://playground.tavily.com">
+  <img src="https://img.shields.io/badge/Try_Playground-ffd700?style=for-the-badge&logo=play&logoColor=1e1e1e" alt="Playground"/>
+</a>
+</p>
+
+### 📚 Resources  
+<p>
+<a href="https://docs.tavily.com">
+  <img src="https://img.shields.io/badge/Documentation-ff6b6b?style=for-the-badge&logo=gitbook&logoColor=white" alt="Docs"/>
+</a>
+<a href="https://blog.tavily.com">
+  <img src="https://img.shields.io/badge/Engineering_Blog-4ecdc4?style=for-the-badge&logo=hashnode&logoColor=1e1e1e" alt="Blog"/>
+</a>
+</p>
+
+### 💬 Community
+<p>
+<a href="https://discord.gg/tavily">
+  <img src="https://img.shields.io/badge/Discord-95e1d3?style=for-the-badge&logo=discord&logoColor=1e1e1e" alt="Discord"/>
+</a>
+<a href="https://github.com/tavily-ai/tavily-python/issues">
+  <img src="https://img.shields.io/badge/GitHub_Issues-fab1a0?style=for-the-badge&logo=github&logoColor=1e1e1e" alt="Issues"/>
+</a>
+</p>
+
+</div>
+
+### Option 5: Minimalist Contrast
+
+<div align="center">
+
+### 🔑 Getting Started
+<p>
+<a href="https://app.tavily.com/api-keys">
+  <img src="https://img.shields.io/badge/Get_API_Keys-ffffff?style=for-the-badge&logo=key&logoColor=000000" alt="API Keys"/>
+</a>
+<a href="https://playground.tavily.com">
+  <img src="https://img.shields.io/badge/Try_Playground-00ff00?style=for-the-badge&logo=play&logoColor=000000" alt="Playground"/>
+</a>
+</p>
+
+### 📚 Resources  
+<p>
+<a href="https://docs.tavily.com">
+  <img src="https://img.shields.io/badge/Documentation-ffffff?style=for-the-badge&logo=gitbook&logoColor=000000" alt="Docs"/>
+</a>
+<a href="https://blog.tavily.com">
+  <img src="https://img.shields.io/badge/Engineering_Blog-ff4444?style=for-the-badge&logo=hashnode&logoColor=ffffff" alt="Blog"/>
+</a>
+</p>
+
+### 💬 Community
+<p>
+<a href="https://discord.gg/tavily">
+  <img src="https://img.shields.io/badge/Discord-44ff44?style=for-the-badge&logo=discord&logoColor=000000" alt="Discord"/>
+</a>
+<a href="https://github.com/tavily-ai/tavily-python/issues">
+  <img src="https://img.shields.io/badge/GitHub_Issues-ffffff?style=for-the-badge&logo=github&logoColor=000000" alt="Issues"/>
+</a>
+</p>
+
+</div>
+
+### Option 6: Ocean/Nature Theme
+
+<div align="center">
+
+### 🔑 Getting Started
+<p>
+<a href="https://app.tavily.com/api-keys">
+  <img src="https://img.shields.io/badge/Get_API_Keys-64b5f6?style=for-the-badge&logo=key&logoColor=1a2332" alt="API Keys"/>
+</a>
+<a href="https://playground.tavily.com">
+  <img src="https://img.shields.io/badge/Try_Playground-4fc3f7?style=for-the-badge&logo=play&logoColor=1a2332" alt="Playground"/>
+</a>
+</p>
+
+### 📚 Resources  
+<p>
+<a href="https://docs.tavily.com">
+  <img src="https://img.shields.io/badge/Documentation-81c784?style=for-the-badge&logo=gitbook&logoColor=1a2332" alt="Docs"/>
+</a>
+<a href="https://blog.tavily.com">
+  <img src="https://img.shields.io/badge/Engineering_Blog-ffab40?style=for-the-badge&logo=hashnode&logoColor=1a2332" alt="Blog"/>
+</a>
+</p>
+
+### 💬 Community
+<p>
+<a href="https://discord.gg/tavily">
+  <img src="https://img.shields.io/badge/Discord-ffb74d?style=for-the-badge&logo=discord&logoColor=1a2332" alt="Discord"/>
+</a>
+<a href="https://github.com/tavily-ai/tavily-python/issues">
+  <img src="https://img.shields.io/badge/GitHub_Issues-e57373?style=for-the-badge&logo=github&logoColor=1a2332" alt="Issues"/>
 </a>
 </p>
 

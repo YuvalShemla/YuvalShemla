@@ -73,7 +73,7 @@
 
 </div>
 
-### Python
+### Python:
 
 <div align="center">
 
@@ -89,9 +89,11 @@ response = tavily_client.search("Who is Leo Messi?")
 
 print(response)
 ```
-</div>\
+</div>
 
-### JavaScript / TypeScript
+### JavaScript / TypeScript:
+
+<div align="center">
 
 ```bash
 npm install @tavily/core
@@ -105,12 +107,17 @@ const response = await tvly.search("Who is Leo Messi?");
 
 console.log(response);
 ```
+</div>
 
-**For full API reference & guides: **[docs](https://docs.tavily.com)** .
+For full API reference & guides: **[docs](https://docs.tavily.com)** .
 
 ---
 
+<div align="center">
+
 ## What is Tavily?
+
+</div>
 
 **The web access layer for AI applications.** Tavily provides fast, reliable APIs that let developers easily:
 

@@ -57,7 +57,7 @@
 
 ---
 
-## 🚀 Getting Started
+## ❤️ Getting Started:
 
 <div align="center">
 
@@ -121,29 +121,16 @@ For full API reference & guides: **[docs](https://docs.tavily.com)** .
 
 **The web access layer for AI applications.** Tavily provides fast, reliable APIs that let developers easily:
 
-### 🔍 **Search** the web for information
-Optimized for relevancy and low latency. Get real-time, contextual information from across the web with intelligent filtering and ranking that prioritizes the most relevant results for your AI applications.
+### 🔍 **Search** the web
+Optimized for relevancy and low latency. Get real-time, contextual information from across the web with intelligent contenmt extraction and ranking that prioritizes the most relevant results for your AI applications.
 
 ### 📄 **Extract** structured data from URLs  
-Supporting summaries, Markdown, or cleaned text. Transform any webpage into LLM-ready data with automatic content cleaning, format conversion, and intelligent text extraction that preserves structure and meaning.
+Supporting summaries, Markdown, or cleaned text. Transform any webpage into LLM-ready data with automatic content cleaning, format conversion, and text extraction that preserves structure and meaning.
 
 ### 🗺️ **Map** the web into graphs
-Get thousands of URLs and their connections in one request. Discover content relationships, site hierarchies, and linked data networks to understand how information connects across the web.
+Get thousands of URLs and their sturcture in one request. Discover content relationships, site hierarchies, and linked data networks to understand how information connects across the web.
 
 ### 🕸️ **Crawl** entire domains at scale
 Optimized for intelligent URL decisions and results. Navigate complex websites with smart crawling strategies that respect robots.txt, handle dynamic content, and efficiently discover all accessible pages.
 
 Built specifically for **AI agents** and **RAG workflows**.
-
-
----
-
-## 🌟 Ready to build something amazing?
-
-Get your API key, fire up the playground, and start shipping in minutes:
-
-⭐ **[Star our SDK repos](https://github.com/tavily-ai)**  
-▶️ **[Try the playground](https://playground.tavily.com)**  
-📖 **[Read the docs](https://docs.tavily.com)**  
-
-Built with ❤️ by the Tavily team — making the web instantly accessible for AI.

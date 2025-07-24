@@ -21,6 +21,9 @@
 <a href="https://pepy.tech/projects/tavily-python">
   <img src="https://img.shields.io/badge/Downloads_•_5.58M-f78166?style=for-the-badge&logo=python&logoColor=white" alt="Downloads - 5.58M"/>
 </a>
+<a href="https://www.npmjs.com/package/@tavily/core">
+  <img src="https://img.shields.io/badge/NPM_Downloads_•_700K-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM Downloads - 700K"/>
+</a>
 </p>
 
 <p>
@@ -42,17 +45,17 @@
 <tr>
 <td width="30%" align="center" valign="middle">
 
-<img src="assets/tavily.png" alt="Tavily" width="120">
+<img src="assets/tavily.png" alt="Tavily" width="90">
 
 </td>
 <td width="70%">
 
-**The web access layer for AI applications.** Tavily provides fast, reliable APIs that let developers easily:
+**Tavily provides fast, reliable APIs that let developers easily:
 
-🔍 **Search** the web for real-time information  
-📄 **Extract** structured data from any website  
-🗺️ **Map** site structures and content  
-🕸️ **Crawl** entire domains at scale  
+🔍 **Search** the web for information — optimized for relevancy and low latency  
+📄 **Extract** structured data from URLs — supporting summaries, full content, or cleaned text  
+🗺️ **Map** the web into graphs — get thousands of URLs and their connections in one request  
+🕸️ **Crawl** entire domains at scale — optimized for intelligent URL decisions and results   
 
 Built specifically for **AI agents** and **RAG workflows**.
 

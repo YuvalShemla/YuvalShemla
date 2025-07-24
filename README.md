@@ -48,11 +48,10 @@
 [![tavily-python](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-python&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&icon_color=f78166)](https://github.com/tavily-ai/tavily-python)
 [![tavily-js](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-js&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&icon_color=f78166)](https://github.com/tavily-ai/tavily-js)
 
-<div align="center">
-
 [![meeting-prep-agent](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=meeting-prep-agent&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&icon_color=f78166)](https://github.com/tavily-ai/meeting-prep-agent)
 [![use-cases](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=use-cases&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&icon_color=f78166)](https://github.com/tavily-ai/use-cases)
 [![tavily-mcp](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-mcp&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&icon_color=f78166)](https://github.com/tavily-ai/tavily-mcp)
+
 </div>
 
 
@@ -61,10 +60,10 @@
 ## 🚀 Getting Started
 
 <a href="https://app.tavily.com/home">
-  <img src="https://img.shields.io/badge/Get_API_Key_for_Free-58a6ff?style=for-the-badge&logo=key&logoColor=white" alt="Get API Key for Free"/>
+  <img src="https://img.shields.io/badge/Get_API_Key_for_Free-58a6ff?style=for-the-badge&logo=key&logoColor=white" alt="Get A Free API Key"/>
 </a>
 <a href="https://app.tavily.com/playground">
-  <img src="https://img.shields.io/badge/Learn_More_•_Playground-56d4dd?style=for-the-badge&logo=gitbook&logoColor=0d1117" alt="Try In Playground"/>
+  <img src="https://img.shields.io/badge/Try In Playground-56d4dd?style=for-the-badge&logo=gitbook&logoColor=0d1117" alt="Try In Playground"/>
 </a>
 <a href="https://docs.tavily.com/welcome">
   <img src="https://img.shields.io/badge/Learn_More_•_Docs-56d4dd?style=for-the-badge&logo=gitbook&logoColor=0d1117" alt="Learn More - Docs"/>

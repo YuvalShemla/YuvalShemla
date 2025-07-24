@@ -1,12 +1,4 @@
-<!-- Banner -->
-
-<!-- Replace 'Banner_NEW.png' with the relative path or URL of your banner asset -->
-
-<p align="center">
-  <img src="assets/Banner_NEW.png" alt="Tavily MCP banner" width="100%" />
-</p>
-
-<!-- Hero Demo -->
+<!-- Gif Demo -->
 
 <!-- Convert your video to GIF or use a static demo image -->
 
@@ -32,8 +24,8 @@ Tavily equips developers with blazing‑fast, reliable APIs to programmatically 
 
 <div align="center">
 
-[![tavily-python](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-python&theme=dark)](https://github.com/tavily-ai/tavily-python)
-[![tavily-js](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-js&theme=dark)](https://github.com/tavily-ai/tavily-js)
+[![tavily-python](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-python&bg_color=1a1b27&title_color=4F8CC9&text_color=ffffff&icon_color=FFD700)](https://github.com/tavily-ai/tavily-python)
+[![tavily-js](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-js&bg_color=1a1b27&title_color=4F8CC9&text_color=ffffff&icon_color=FFD700)](https://github.com/tavily-ai/tavily-js)
 
 </div>
 
@@ -41,8 +33,8 @@ Tavily equips developers with blazing‑fast, reliable APIs to programmatically 
 
 <div align="center">
 
-[![tavily-mcp](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-mcp&theme=dark)](https://github.com/tavily-ai/tavily-mcp)
-[![meeting-prep-agent](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=meeting-prep-agent&theme=dark)](https://github.com/tavily-ai/meeting-prep-agent)
+[![tavily-mcp](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-mcp&bg_color=1a1b27&title_color=FF6B6B&text_color=ffffff&icon_color=FFD700)](https://github.com/tavily-ai/tavily-mcp)
+[![meeting-prep-agent](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=meeting-prep-agent&bg_color=1a1b27&title_color=FF6B6B&text_color=ffffff&icon_color=FFD700)](https://github.com/tavily-ai/meeting-prep-agent)
 
 </div>
 
@@ -50,8 +42,8 @@ Tavily equips developers with blazing‑fast, reliable APIs to programmatically 
 
 <div align="center">
 
-[![use-cases](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=use-cases&theme=dark)](https://github.com/tavily-ai/use-cases)
-[![tavily-crawl-beta-test](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-crawl-beta-test&theme=dark)](https://github.com/tavily-ai/tavily-crawl-beta-test)
+[![use-cases](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=use-cases&bg_color=1a1b27&title_color=4F8CC9&text_color=ffffff&icon_color=FFD700)](https://github.com/tavily-ai/use-cases)
+[![tavily-crawl-beta-test](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-crawl-beta-test&bg_color=1a1b27&title_color=FF6B6B&text_color=ffffff&icon_color=FFD700)](https://github.com/tavily-ai/tavily-crawl-beta-test)
 
 </div>
 
@@ -73,14 +65,39 @@ See our **[docs](https://docs.tavily.com)** for full API reference & guides.
 
 ## 🤝 Community & Support
 
-| Channel | Link | Purpose |
-| ------- | ---- | ------- |
-| **API Keys** | [https://app.tavily.com/api-keys](https://app.tavily.com/api-keys) | Generate & manage your Tavily credentials |
-| **Playground** | [https://playground.tavily.com](https://playground.tavily.com) | Test queries & see live responses without writing code |
-| **Docs** | [https://docs.tavily.com](https://docs.tavily.com) | Comprehensive guides & API reference |
-| **Blog** | [https://blog.tavily.com](https://blog.tavily.com) | Engineering deep‑dives, release notes & tutorials |
-| **Discord** | [https://discord.gg/tavily](https://discord.gg/tavily) | Chat with the team & community, get help, share projects |
-| **Issue Tracker** | [GitHub Issues](https://github.com/tavily-ai/tavily-python/issues) | Report bugs, request features |
+<div align="center">
+
+### 🔑 Getting Started
+<p>
+<a href="https://app.tavily.com/api-keys">
+  <img src="https://img.shields.io/badge/Get_API_Keys-4F8CC9?style=for-the-badge&logo=key&logoColor=white" alt="API Keys"/>
+</a>
+<a href="https://playground.tavily.com">
+  <img src="https://img.shields.io/badge/Try_Playground-FFD700?style=for-the-badge&logo=play&logoColor=black" alt="Playground"/>
+</a>
+</p>
+
+### 📚 Resources  
+<p>
+<a href="https://docs.tavily.com">
+  <img src="https://img.shields.io/badge/Documentation-4F8CC9?style=for-the-badge&logo=gitbook&logoColor=white" alt="Docs"/>
+</a>
+<a href="https://blog.tavily.com">
+  <img src="https://img.shields.io/badge/Engineering_Blog-FF6B6B?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/>
+</a>
+</p>
+
+### 💬 Community
+<p>
+<a href="https://discord.gg/tavily">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+<a href="https://github.com/tavily-ai/tavily-python/issues">
+  <img src="https://img.shields.io/badge/GitHub_Issues-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Issues"/>
+</a>
+</p>
+
+</div>
 
 ---
 

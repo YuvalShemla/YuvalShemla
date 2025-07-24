@@ -36,7 +36,7 @@
 
 
 
-## What is <img src="assets/tavily.png" alt="Tavily" width="60" style="vertical-align: middle; margin-left: 8px;">?
+## <img src="assets/tavily.png" alt="Tavily" width="80" style="vertical-align: middle; margin-right: 12px;"> Who are we?
 
 **The web access layer for AI applications.** Tavily provides fast, reliable APIs that let developers easily:
 

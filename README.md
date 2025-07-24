@@ -59,6 +59,8 @@
 
 ## 🚀 Getting Started
 
+<div align="center">
+
 <a href="https://app.tavily.com/home">
   <img src="https://img.shields.io/badge/Get_API_Key_for_Free-58a6ff?style=for-the-badge&logo=key&logoColor=white" alt="Get A Free API Key"/>
 </a>
@@ -69,7 +71,11 @@
   <img src="https://img.shields.io/badge/Learn_More_•_Docs-56d4dd?style=for-the-badge&logo=gitbook&logoColor=0d1117" alt="Learn More - Docs"/>
 </a>
 
+</div>
+
 ### Python
+
+<div align="center">
 
 ```bash
 pip install tavily-python
@@ -83,6 +89,7 @@ response = tavily_client.search("Who is Leo Messi?")
 
 print(response)
 ```
+</div>\
 
 ### JavaScript / TypeScript
 

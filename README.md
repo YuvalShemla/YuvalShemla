@@ -27,7 +27,7 @@ Tavily equips developers with blazing‑fast, reliable APIs to programmatically 
 
 <div align="center">
 
-[![tavily-python](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-python&bg_color=FEFFC4&title_color=799EFF&text_color=ffffff&icon_color=FFD700)](https://github.com/tavily-ai/tavily-python)
+[![tavily-python](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-python&bg_color=F5F0CD&title_color=81BFDA&text_color=212427&icon_color=212427)](https://github.com/tavily-ai/tavily-python)
 [![tavily-js](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-js&bg_color=1a1b27&title_color=4F8CC9&text_color=ffffff&icon_color=FFD700)](https://github.com/tavily-ai/tavily-js)
 
 </div>

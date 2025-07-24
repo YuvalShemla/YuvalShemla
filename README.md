@@ -40,6 +40,11 @@
 
 <table>
 <tr>
+<td width="30%" align="center" valign="middle">
+
+<img src="assets/tavily.png" alt="Tavily" width="120">
+
+</td>
 <td width="70%">
 
 **The web access layer for AI applications.** Tavily provides fast, reliable APIs that let developers easily:
@@ -50,11 +55,6 @@
 🕸️ **Crawl** entire domains at scale  
 
 Built specifically for **AI agents** and **RAG workflows**.
-
-</td>
-<td width="30%" align="center" valign="middle">
-
-<img src="assets/tavily.png" alt="Tavily" width="120">
 
 </td>
 </tr>

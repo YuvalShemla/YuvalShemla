@@ -1,7 +1,7 @@
 <!-- Hero Section -->
 
 <h1 align="center">Tavily — Making the web instantly accessible for AI 🚀</h1>
-<p align="center"><em>Search • Extract • Map • Crawl</em></p>
+
 
 <p align="center">
   <img src="assets/feature.gif" alt="Tavily Demo" width="100%" />
@@ -14,21 +14,21 @@
 <div align="center">
 
 <p>
-<a href="https://status.tavily.com/">
-  <img src="https://img.shields.io/badge/API%20Status-00d084?style=for-the-badge&logo=statuspage&logoColor=white" alt="API Status"/>
-</a>
-<a href="https://pepy.tech/project/tavily-python">
-  <img src="https://img.shields.io/pepy/dt/tavily-python?style=for-the-badge&logo=python&logoColor=white&label=Python%20Downloads&color=f78166" alt="Python Downloads"/>
+<a href="https://www.tavily.com/">
+  <img src="https://img.shields.io/badge/Trusted_by_600K%2B_Developers-56d4dd?style=for-the-badge&logo=users&logoColor=0d1117" alt="Trusted by 600K+ Developers"/>
 </a>
 <a href="https://www.npmjs.com/package/@tavily/core">
   <img src="https://img.shields.io/npm/dt/@tavily/core?style=for-the-badge&logo=npm&logoColor=white&label=NPM%20Downloads&color=CB3837" alt="NPM Downloads"/>
 </a>
-<a href="https://www.tavily.com/">
-  <img src="https://img.shields.io/badge/Trusted_by_600K%2B_Developers-56d4dd?style=for-the-badge&logo=users&logoColor=0d1117" alt="Trusted by 600K+ Developers"/>
+<a href="https://pepy.tech/project/tavily-python">
+  <img src="https://img.shields.io/pepy/dt/tavily-python?style=for-the-badge&logo=python&logoColor=white&label=Python%20Downloads&color=f78166" alt="Python Downloads"/>
 </a>
 </p>
 
 <p>
+<a href="https://status.tavily.com/">
+  <img src="https://img.shields.io/badge/API%20Status-00d084?style=for-the-badge&logo=statuspage&logoColor=white" alt="API Status"/>
+</a>
 <a href="https://www.linkedin.com/company/tavily">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
@@ -36,6 +36,8 @@
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
 </a>
 </p>
+
+<p align="center"><em>Search • Extract • Map • Crawl</em></p>
 
 </div>
 

@@ -36,12 +36,29 @@
 
 
 
-Tavily equips developers with fast, reliable APIs to programmatically **search** content, **extract** data, **map** site structures, and **crawl** entire domains — purpose‑built for AI agents and Retrieval‑Augmented Generation (RAG) workflows.
+<div align="center">
+  <img src="assets/tavily.png" alt="Tavily Logo" width="60" style="margin-right: 15px; vertical-align: middle;">
+</div>
 
-* **Real‑time** — gets fresh information from the web optimized for relevancy and low latency
-* **Secure** & production‑ready infrastructure
-* **Scalable** — from one request to millions
-* Trusted by **600 000+ developers** worldwide
+## What is Tavily?
+
+**The web access layer for AI applications.** Tavily provides fast, reliable APIs that let developers easily:
+
+🔍 **Search** the web for real-time information  
+📄 **Extract** structured data from any website  
+🗺️ **Map** site structures and content  
+🕸️ **Crawl** entire domains at scale  
+
+Built specifically for **AI agents** and **RAG workflows**.
+
+---
+
+## Why Choose Tavily?
+
+✅ **Real-time** — Fresh web data optimized for relevancy and speed  
+🔒 **Secure** — Production-ready infrastructure you can trust  
+📈 **Scalable** — From one request to millions seamlessly  
+🌍 **Proven** — Trusted by 600,000+ developers worldwide
 
 ---
 

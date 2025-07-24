@@ -6,12 +6,12 @@
   <img src="assets/Banner_NEW.png" alt="Tavily MCP banner" width="100%" />
 </p>
 
-<!-- Hero Video -->
+<!-- Hero Demo -->
 
-<!-- Upload your hero video to the repo and replace 'tavily-hero.mp4' in the src attribute below -->
+<!-- Convert your video to GIF or use a static demo image -->
 
 <p align="center">
-  <video src="assets/tavily-hero.mp4" autoplay loop muted playsinline width="100%"></video>
+  <img src="assets/feature.gif" alt="Tavily Demo" width="100%" />
 </p>
 
 <h1 align="center">Tavily — The Web Access Layer for AI&nbsp;Agents 🚀</h1>
@@ -53,8 +53,25 @@ See our **[docs](https://docs.tavily.com)** for full API reference & guides.
 
 ---
 
-## 🙌 Stay in Touch
+## 🤝 Community & Support
 
-* **Website:** [https://tavily.com](https://tavily.com)
-* **Twitter / X:** [@TavilyAI](https://twitter.com/TavilyAI)
-* **Discord:** *coming soon*
+| Channel | Link | Purpose |
+| ------- | ---- | ------- |
+| **API Keys** | [https://app.tavily.com/api-keys](https://app.tavily.com/api-keys) | Generate & manage your Tavily credentials |
+| **Playground** | [https://playground.tavily.com](https://playground.tavily.com) | Test queries & see live responses without writing code |
+| **Docs** | [https://docs.tavily.com](https://docs.tavily.com) | Comprehensive guides & API reference |
+| **Blog** | [https://blog.tavily.com](https://blog.tavily.com) | Engineering deep‑dives, release notes & tutorials |
+| **Discord** | [https://discord.gg/tavily](https://discord.gg/tavily) | Chat with the team & community, get help, share projects |
+| **Issue Tracker** | [GitHub Issues](https://github.com/tavily-ai/tavily-python/issues) | Report bugs, request features |
+
+---
+
+## 🌟 Ready to build something amazing?
+
+Get your API key, fire up the playground, and start shipping in minutes:
+
+⭐ **[Star our SDK repos](https://github.com/tavily-ai)**  
+▶️ **[Try the playground](https://playground.tavily.com)**  
+📖 **[Read the docs](https://docs.tavily.com)**  
+
+Built with ❤️ by the Tavily team — making the web instantly accessible for AI.

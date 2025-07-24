@@ -7,9 +7,7 @@
   <img src="assets/feature.gif" alt="Tavily Demo" width="100%" />
 </p>
 
-<p align="center">
-  <img src="assets/tavily.png" alt="Tavily" width="120">
-</p>
+<p align="center"><em>Search • Extract • Map • Crawl</em></p>
 
 <div align="center">
 
@@ -37,15 +35,13 @@
 </a>
 </p>
 
-<p align="center"><em>Search • Extract • Map • Crawl</em></p>
-
 </div>
 
 <p align="center">
   <img src="assets/tavily.png" alt="Tavily" width="120">
 </p>
 
-## Who are we?
+## What is Tavily?
 
 **The web access layer for AI applications.** Tavily provides fast, reliable APIs that let developers easily:
 

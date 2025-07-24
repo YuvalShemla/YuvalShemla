@@ -1,28 +1,25 @@
 <!-- Hero Section -->
 
 <h1 align="center">Tavily — Making the web instantly accessible for AI 🚀</h1>
-<p align="center"><strong>Advanced web scraping, crawling, and data extraction infrastructure for AI applications</strong></p>
+<p align="center"><em>Search • Extract • Map • Crawl</em></p>
 
 <p align="center">
   <img src="assets/feature.gif" alt="Tavily Demo" width="100%" />
 </p>
 
-<p align="center"><em>Search • Extract • Map • Crawl</em></p>
-<p align="center">Transform any website into LLM-ready data with real-time web access optimized for relevancy and low latency.</p>
+
 
 <div align="center">
 
-### 🚀 Get Started
 <p>
-<a href="https://app.tavily.com/home">
-  <img src="https://img.shields.io/badge/Get_API_Key_for_Free-58a6ff?style=for-the-badge&logo=key&logoColor=white" alt="Get API Key for Free"/>
+<a href="https://status.tavily.com/">
+  <img src="https://img.shields.io/badge/Status_•_99.57%25_Uptime-00d084?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status - 99.57% Uptime"/>
 </a>
-<a href="https://docs.tavily.com/welcome">
-  <img src="https://img.shields.io/badge/Learn_More_•_Docs-56d4dd?style=for-the-badge&logo=gitbook&logoColor=0d1117" alt="Learn More - Docs"/>
+<a href="https://pepy.tech/projects/tavily-python">
+  <img src="https://img.shields.io/badge/Downloads_•_5.58M-f78166?style=for-the-badge&logo=python&logoColor=white" alt="Downloads - 5.58M"/>
 </a>
 </p>
 
-### 📢 Stay Updated
 <p>
 <a href="https://www.linkedin.com/company/tavily">
   <img src="https://img.shields.io/badge/LinkedIn-f78166?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>

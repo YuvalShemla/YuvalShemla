@@ -52,6 +52,82 @@ Tavily equips developers with blazing‑fast, reliable APIs to programmatically 
 
 ---
 
+## 🎨 Color Scheme Options
+
+### Option 1: Modern Tech (Recommended)
+
+<div align="center">
+
+[![tavily-python](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-python&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&icon_color=f78166)](https://github.com/tavily-ai/tavily-python)
+[![tavily-js](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-js&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&icon_color=f78166)](https://github.com/tavily-ai/tavily-js)
+
+[![tavily-mcp](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-mcp&bg_color=0d1117&title_color=56d4dd&text_color=e6edf3&icon_color=ffa657)](https://github.com/tavily-ai/tavily-mcp)
+[![meeting-prep-agent](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=meeting-prep-agent&bg_color=0d1117&title_color=56d4dd&text_color=e6edf3&icon_color=ffa657)](https://github.com/tavily-ai/meeting-prep-agent)
+
+</div>
+
+### Option 2: GitHub Native
+
+<div align="center">
+
+[![tavily-python](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-python&bg_color=21262d&title_color=58a6ff&text_color=c9d1d9&icon_color=f85149)](https://github.com/tavily-ai/tavily-python)
+[![tavily-js](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-js&bg_color=21262d&title_color=7c3aed&text_color=c9d1d9&icon_color=fbbf24)](https://github.com/tavily-ai/tavily-js)
+
+[![tavily-mcp](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-mcp&bg_color=21262d&title_color=059669&text_color=c9d1d9&icon_color=f97316)](https://github.com/tavily-ai/tavily-mcp)
+[![meeting-prep-agent](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=meeting-prep-agent&bg_color=21262d&title_color=059669&text_color=c9d1d9&icon_color=f97316)](https://github.com/tavily-ai/meeting-prep-agent)
+
+</div>
+
+### Option 3: Cyberpunk/Hacker
+
+<div align="center">
+
+[![tavily-python](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-python&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5&icon_color=9ece6a)](https://github.com/tavily-ai/tavily-python)
+[![tavily-js](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-js&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5&icon_color=9ece6a)](https://github.com/tavily-ai/tavily-js)
+
+[![tavily-mcp](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-mcp&bg_color=1a1b26&title_color=bb9af7&text_color=c0caf5&icon_color=f7768e)](https://github.com/tavily-ai/tavily-mcp)
+[![meeting-prep-agent](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=meeting-prep-agent&bg_color=1a1b26&title_color=bb9af7&text_color=c0caf5&icon_color=f7768e)](https://github.com/tavily-ai/meeting-prep-agent)
+
+</div>
+
+### Option 4: Warm Professional
+
+<div align="center">
+
+[![tavily-python](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-python&bg_color=1e1e1e&title_color=61dafb&text_color=ffffff&icon_color=ffd700)](https://github.com/tavily-ai/tavily-python)
+[![tavily-js](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-js&bg_color=1e1e1e&title_color=61dafb&text_color=ffffff&icon_color=ffd700)](https://github.com/tavily-ai/tavily-js)
+
+[![tavily-mcp](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-mcp&bg_color=1e1e1e&title_color=ff6b6b&text_color=ffffff&icon_color=4ecdc4)](https://github.com/tavily-ai/tavily-mcp)
+[![meeting-prep-agent](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=meeting-prep-agent&bg_color=1e1e1e&title_color=ff6b6b&text_color=ffffff&icon_color=4ecdc4)](https://github.com/tavily-ai/meeting-prep-agent)
+
+</div>
+
+### Option 5: Minimalist Contrast
+
+<div align="center">
+
+[![tavily-python](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-python&bg_color=000000&title_color=ffffff&text_color=e0e0e0&icon_color=00ff00)](https://github.com/tavily-ai/tavily-python)
+[![tavily-js](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-js&bg_color=111111&title_color=ffffff&text_color=cccccc&icon_color=ff4444)](https://github.com/tavily-ai/tavily-js)
+
+[![tavily-mcp](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-mcp&bg_color=111111&title_color=ffffff&text_color=cccccc&icon_color=44ff44)](https://github.com/tavily-ai/tavily-mcp)
+[![meeting-prep-agent](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=meeting-prep-agent&bg_color=000000&title_color=ffffff&text_color=e0e0e0&icon_color=00ff00)](https://github.com/tavily-ai/meeting-prep-agent)
+
+</div>
+
+### Option 6: Ocean/Nature Theme
+
+<div align="center">
+
+[![tavily-python](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-python&bg_color=1a2332&title_color=64b5f6&text_color=ffffff&icon_color=4fc3f7)](https://github.com/tavily-ai/tavily-python)
+[![tavily-js](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-js&bg_color=1a2332&title_color=64b5f6&text_color=ffffff&icon_color=4fc3f7)](https://github.com/tavily-ai/tavily-js)
+
+[![tavily-mcp](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-mcp&bg_color=1a2332&title_color=81c784&text_color=ffffff&icon_color=ffb74d)](https://github.com/tavily-ai/tavily-mcp)
+[![meeting-prep-agent](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=meeting-prep-agent&bg_color=1a2332&title_color=81c784&text_color=ffffff&icon_color=ffb74d)](https://github.com/tavily-ai/meeting-prep-agent)
+
+</div>
+
+---
+
 ## 🚀 Quick Start
 
 ```bash

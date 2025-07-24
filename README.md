@@ -43,7 +43,24 @@
 
 ---
 
-## 🚀 Get Started
+<div align="center">
+
+[![tavily-python](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-python&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&icon_color=f78166)](https://github.com/tavily-ai/tavily-python)
+[![tavily-js](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-js&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&icon_color=f78166)](https://github.com/tavily-ai/tavily-js)
+
+<div align="center">
+
+[![tavily-mcp](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-mcp&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&icon_color=f78166)](https://github.com/tavily-ai/tavily-mcp)
+[![meeting-prep-agent](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=meeting-prep-agent&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&icon_color=f78166)](https://github.com/tavily-ai/meeting-prep-agent)
+[![use-cases](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=use-cases&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&icon_color=f78166)](https://github.com/tavily-ai/use-cases)
+
+</div>
+
+
+---
+
+## 🚀 Getting Started
+
 
 <div align="center">
 
@@ -57,38 +74,6 @@
 </p>
 
 </div>
-
-###  SDKs
-
-<div align="center">
-
-[![tavily-python](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-python&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&icon_color=f78166)](https://github.com/tavily-ai/tavily-python)
-[![tavily-js](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-js&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&icon_color=f78166)](https://github.com/tavily-ai/tavily-js)
-
-</div>
-
-### Tavily's MCP Server
-
-<div align="center">
-
-[![tavily-mcp](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-mcp&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&icon_color=f78166)](https://github.com/tavily-ai/tavily-mcp)
-
-
-</div>
-
-### Examples & Beta
-
-<div align="center">
-
-[![meeting-prep-agent](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=meeting-prep-agent&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&icon_color=f78166)](https://github.com/tavily-ai/meeting-prep-agent)
-[![use-cases](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=use-cases&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&icon_color=f78166)](https://github.com/tavily-ai/use-cases)
-
-</div>
-
-
----
-
-## 🚀 Getting Started
 
 ### Installation
 

@@ -60,14 +60,6 @@ Built specifically for **AI agents** and **RAG workflows**.
 </tr>
 </table>
 
----
-
-## Why Choose Tavily?
-
-✅ **Real-time** — Fresh web data optimized for relevancy and speed  
-🔒 **Secure** — Production-ready infrastructure you can trust  
-📈 **Scalable** — From one request to millions seamlessly  
-🌍 **Proven** — Trusted by 600,000+ developers worldwide
 
 ---
 

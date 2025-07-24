@@ -1,13 +1,15 @@
 <!-- Hero Section -->
 
-<h1 align="center"><img src="assets/tavily.png" alt="Tavily" width="120" style="vertical-align: middle; margin-right: 10px;"> — Making the web instantly accessible for AI 🚀</h1>
+<h1 align="center">Tavily — Making the web instantly accessible for AI 🚀</h1>
 <p align="center"><em>Search • Extract • Map • Crawl</em></p>
 
 <p align="center">
   <img src="assets/feature.gif" alt="Tavily Demo" width="100%" />
 </p>
 
-
+<p align="center">
+  <img src="assets/tavily.png" alt="Tavily" width="120">
+</p>
 
 <div align="center">
 

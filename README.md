@@ -88,17 +88,47 @@
 
 ---
 
-## 🚀 Quick Start
+## 🚀 Getting Started
+
+### Installation
+
+<details open>
+<summary><strong>🐍 Python</strong></summary>
 
 ```bash
-# Python
-pip install tavily
-
-# JavaScript / TypeScript
-npm install tavily
+pip install tavily-python
 ```
 
-See our **[docs](https://docs.tavily.com)** for full API reference & guides.
+```python
+from tavily import TavilyClient
+
+tavily_client = TavilyClient(api_key="tvly-YOUR_API_KEY")
+response = tavily_client.search("Who is Leo Messi?")
+
+print(response)
+```
+
+</details>
+
+<details>
+<summary><strong>📦 JavaScript / TypeScript</strong></summary>
+
+```bash
+npm install @tavily/core
+```
+
+```javascript
+const { tavily } = require("@tavily/core");
+
+const tvly = tavily({ apiKey: "tvly-YOUR_API_KEY" });
+const response = await tvly.search("Who is Leo Messi?");
+
+console.log(response);
+```
+
+</details>
+
+**📚 Ready to dive deeper?** See our **[docs](https://docs.tavily.com)** for full API reference & guides.
 
 ---
 

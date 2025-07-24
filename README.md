@@ -2,12 +2,15 @@
 
 <!-- Convert your video to GIF or use a static demo image -->
 
+<h1 align="center">Tavily — The Web Access Layer for AI&nbsp;Agents 🚀</h1>
+<p align="center"><em>Search • Extract • Map • Crawl</em></p>
+
+
 <p align="center">
   <img src="assets/feature.gif" alt="Tavily Demo" width="100%" />
 </p>
 
-<h1 align="center">Tavily — The Web Access Layer for AI&nbsp;Agents 🚀</h1>
-<p align="center"><em>Search • Extract • Map • Crawl</em></p>
+
 
 Tavily equips developers with blazing‑fast, reliable APIs to programmatically **search** content, **extract** data, **map** site structures, and **crawl** entire domains — purpose‑built for AI agents and Retrieval‑Augmented Generation (RAG) workflows.
 

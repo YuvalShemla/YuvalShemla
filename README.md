@@ -38,7 +38,9 @@
 
 ## Who are we?
 
-<div style="position: relative;">
+<table>
+<tr>
+<td width="70%">
 
 **The web access layer for AI applications.** Tavily provides fast, reliable APIs that let developers easily:
 
@@ -47,11 +49,16 @@
 🗺️ **Map** site structures and content  
 🕸️ **Crawl** entire domains at scale  
 
-<img src="assets/tavily.png" alt="Tavily" width="120" style="position: absolute; right: 25%; top: 50%; transform: translateY(-50%);">
-
 Built specifically for **AI agents** and **RAG workflows**.
 
-</div>
+</td>
+<td width="30%" align="center" valign="middle">
+
+<img src="assets/tavily.png" alt="Tavily" width="120">
+
+</td>
+</tr>
+</table>
 
 ---
 

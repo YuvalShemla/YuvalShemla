@@ -1,46 +1,36 @@
 <!-- Hero Section -->
 
+<h1 align="center">Tavily — Making the web instantly accessible for AI 🚀</h1>
+<p align="center"><strong>Advanced web scraping, crawling, and data extraction infrastructure for AI applications</strong></p>
 
 <p align="center">
   <img src="assets/feature.gif" alt="Tavily Demo" width="100%" />
 </p>
 
-<h2 align="center">Tavily — The Web Access Layer for AI&nbsp;Agents 🚀</h2>
 <p align="center"><em>Search • Extract • Map • Crawl</em></p>
-
-
-<h1 align="center">Making web instantly accessible for AI. </h1>
-<p align="center"><strong>Advanced web scraping, crawling, and data extraction infrastructure for AI applications</strong></p>
+<p align="center">Transform any website into LLM-ready data with real-time web access optimized for relevancy and low latency.</p>
 
 <div align="center">
 
-<a href="https://app.tavily.com/api-keys">
-  <img src="https://img.shields.io/badge/Get_Started-58a6ff?style=for-the-badge&logo=rocket&logoColor=white" alt="Get Started"/>
+### 🚀 Get Started
+<p>
+<a href="https://app.tavily.com/home">
+  <img src="https://img.shields.io/badge/Get_API_Key_for_Free-58a6ff?style=for-the-badge&logo=key&logoColor=white" alt="Get API Key for Free"/>
 </a>
-<a href="https://docs.tavily.com">
-  <img src="https://img.shields.io/badge/Documentation-56d4dd?style=for-the-badge&logo=gitbook&logoColor=0d1117" alt="Documentation"/>
+<a href="https://docs.tavily.com/welcome">
+  <img src="https://img.shields.io/badge/Learn_More_•_Docs-56d4dd?style=for-the-badge&logo=gitbook&logoColor=0d1117" alt="Learn More - Docs"/>
 </a>
-<a href="https://playground.tavily.com">
-  <img src="https://img.shields.io/badge/Playground-f78166?style=for-the-badge&logo=play&logoColor=white" alt="Playground"/>
-</a>
-<a href="https://discord.gg/tavily">
-  <img src="https://img.shields.io/badge/Discord-58a6ff?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</a>
+</p>
 
-<br/><br/>
-
-<a href="https://github.com/tavily-ai/tavily-python">
-  <img src="https://img.shields.io/github/stars/tavily-ai/tavily-python?style=social" alt="GitHub Stars"/>
+### 📢 Stay Updated
+<p>
+<a href="https://www.linkedin.com/company/tavily">
+  <img src="https://img.shields.io/badge/LinkedIn-f78166?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://pypi.org/project/tavily/">
-  <img src="https://img.shields.io/pypi/dm/tavily?label=Python%20Downloads&style=social" alt="Python Downloads"/>
+<a href="https://x.com/tavilyai">
+  <img src="https://img.shields.io/badge/Twitter-58a6ff?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
 </a>
-<a href="https://twitter.com/TavilyAI">
-  <img src="https://img.shields.io/twitter/follow/TavilyAI?style=social" alt="Follow on X"/>
-</a>
-<a href="https://linkedin.com/company/tavily">
-  <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=social&logo=linkedin" alt="LinkedIn"/>
-</a>
+</p>
 
 </div>
 

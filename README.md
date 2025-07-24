@@ -41,25 +41,6 @@
   <img src="assets/tavily.png" alt="Tavily" width="120">
 </p>
 
-## What is Tavily?
-
-**The web access layer for AI applications.** Tavily provides fast, reliable APIs that let developers easily:
-
-### 🔍 **Search** the web for information
-Optimized for relevancy and low latency. Get real-time, contextual information from across the web with intelligent filtering and ranking that prioritizes the most relevant results for your AI applications.
-
-### 📄 **Extract** structured data from URLs  
-Supporting summaries, Markdown, or cleaned text. Transform any webpage into LLM-ready data with automatic content cleaning, format conversion, and intelligent text extraction that preserves structure and meaning.
-
-### 🗺️ **Map** the web into graphs
-Get thousands of URLs and their connections in one request. Discover content relationships, site hierarchies, and linked data networks to understand how information connects across the web.
-
-### 🕸️ **Crawl** entire domains at scale
-Optimized for intelligent URL decisions and results. Navigate complex websites with smart crawling strategies that respect robots.txt, handle dynamic content, and efficiently discover all accessible pages.
-
-Built specifically for **AI agents** and **RAG workflows**.
-
-
 ---
 
 ## 📚 Repositories
@@ -123,6 +104,25 @@ npm install tavily
 See our **[docs](https://docs.tavily.com)** for full API reference & guides.
 
 ---
+
+## What is Tavily?
+
+**The web access layer for AI applications.** Tavily provides fast, reliable APIs that let developers easily:
+
+### 🔍 **Search** the web for information
+Optimized for relevancy and low latency. Get real-time, contextual information from across the web with intelligent filtering and ranking that prioritizes the most relevant results for your AI applications.
+
+### 📄 **Extract** structured data from URLs  
+Supporting summaries, Markdown, or cleaned text. Transform any webpage into LLM-ready data with automatic content cleaning, format conversion, and intelligent text extraction that preserves structure and meaning.
+
+### 🗺️ **Map** the web into graphs
+Get thousands of URLs and their connections in one request. Discover content relationships, site hierarchies, and linked data networks to understand how information connects across the web.
+
+### 🕸️ **Crawl** entire domains at scale
+Optimized for intelligent URL decisions and results. Navigate complex websites with smart crawling strategies that respect robots.txt, handle dynamic content, and efficiently discover all accessible pages.
+
+Built specifically for **AI agents** and **RAG workflows**.
+
 
 ---
 

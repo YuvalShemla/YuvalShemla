@@ -28,14 +28,32 @@ Tavily equips developers with blazing‑fast, reliable APIs to programmatically 
 
 ## 📚 Repositories
 
-| Repository                                                                        | Description                                                                                      |
-| --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| **[tavily-python](https://github.com/tavily-ai/tavily-python)**                   | Official Python SDK with sync & async helpers, automatic retries, and typed models.              |
-| **[tavily-js](https://github.com/tavily-ai/tavily-js)**                           | TypeScript/JavaScript client, works in Node & the browser, fully typed.                          |
-| **[tavily-mcp](https://github.com/tavily-ai/tavily-mcp)**                         | Micro‑Control Panel reference backend that orchestrates Tavily endpoints at scale.               |
-| **[meeting-prep-agent](https://github.com/tavily-ai/meeting-prep-agent)**         | Demo autonomous agent that surfaces everything you need to know before any meeting.              |
-| **[use-cases](https://github.com/tavily-ai/use-cases)**                           | A curated set of notebooks & apps showing Tavily in action with LangChain, LlamaIndex, and more. |
-| **[tavily-crawl-beta-test](https://github.com/tavily-ai/tavily-crawl-beta-test)** | Early‑access repo & issue tracker for our upcoming `/crawl` endpoint.                            |
+### Core SDKs
+
+<div align="center">
+
+[![tavily-python](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-python&theme=dark)](https://github.com/tavily-ai/tavily-python)
+[![tavily-js](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-js&theme=dark)](https://github.com/tavily-ai/tavily-js)
+
+</div>
+
+### Tools & Integrations
+
+<div align="center">
+
+[![tavily-mcp](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-mcp&theme=dark)](https://github.com/tavily-ai/tavily-mcp)
+[![meeting-prep-agent](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=meeting-prep-agent&theme=dark)](https://github.com/tavily-ai/meeting-prep-agent)
+
+</div>
+
+### Examples & Beta
+
+<div align="center">
+
+[![use-cases](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=use-cases&theme=dark)](https://github.com/tavily-ai/use-cases)
+[![tavily-crawl-beta-test](https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-crawl-beta-test&theme=dark)](https://github.com/tavily-ai/tavily-crawl-beta-test)
+
+</div>
 
 ---
 

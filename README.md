@@ -15,14 +15,11 @@
 <a href="https://status.tavily.com/">
   <img src="https://img.shields.io/badge/Status_•_99.57%25_Uptime-00d084?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status - 99.57% Uptime"/>
 </a>
-<a href="https://www.tavily.com/">
-  <img src="https://img.shields.io/badge/Trusted_by_600K%2B_Developers-56d4dd?style=for-the-badge&logo=users&logoColor=0d1117" alt="Trusted by 600K+ Developers"/>
-</a>
 <a href="https://pepy.tech/projects/tavily-python">
-  <img src="https://img.shields.io/badge/Downloads_•_5.58M-f78166?style=for-the-badge&logo=python&logoColor=white" alt="Downloads - 5.58M"/>
+  <img src="https://img.shields.io/pypi/dm/tavily-python?style=for-the-badge&logo=python&logoColor=white&label=Python%20Downloads&color=f78166" alt="Python Downloads"/>
 </a>
 <a href="https://www.npmjs.com/package/@tavily/core">
-  <img src="https://img.shields.io/badge/NPM_Downloads_•_700K-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM Downloads - 700K"/>
+  <img src="https://img.shields.io/npm/dm/@tavily/core?style=for-the-badge&logo=npm&logoColor=white&label=NPM%20Downloads&color=CB3837" alt="NPM Downloads"/>
 </a>
 </p>
 
@@ -53,7 +50,7 @@
 **Tavily provides fast, reliable APIs that let developers easily:
 
 🔍 **Search** the web for information — optimized for relevancy and low latency  
-📄 **Extract** structured data from URLs — supporting summaries, full content, or cleaned text  
+📄 **Extract** structured data from URLs — supporting summaries, Markdown, or cleaned text  
 🗺️ **Map** the web into graphs — get thousands of URLs and their connections in one request  
 🕸️ **Crawl** entire domains at scale — optimized for intelligent URL decisions and results   
 

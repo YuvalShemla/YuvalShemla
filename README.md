@@ -57,7 +57,7 @@
 
 ---
 
-## ❤️ Getting Started:
+## ⭐ Getting Started:
 
 <div align="center">
 

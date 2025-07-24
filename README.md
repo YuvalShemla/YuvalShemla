@@ -1,6 +1,6 @@
 <!-- Hero Section -->
 
-<h1 align="center"><img src="assets/tavily.png" alt="Tavily" width="60" style="vertical-align: middle; margin-right: 10px;"> — Making the web instantly accessible for AI 🚀</h1>
+<h1 align="center"><img src="assets/tavily.png" alt="Tavily" width="120" style="vertical-align: middle; margin-right: 10px;"> — Making the web instantly accessible for AI 🚀</h1>
 <p align="center"><em>Search • Extract • Map • Crawl</em></p>
 
 <p align="center">
@@ -41,27 +41,21 @@
 
 ## Who are we?
 
-<table>
-<tr>
-<td width="30%" align="center" valign="middle">
+**The web access layer for AI applications.** Tavily provides fast, reliable APIs that let developers easily:
 
-<img src="assets/tavily.png" alt="Tavily" width="90">
+### 🔍 **Search** the web for information
+Optimized for relevancy and low latency. Get real-time, contextual information from across the web with intelligent filtering and ranking that prioritizes the most relevant results for your AI applications.
 
-</td>
-<td width="70%">
+### 📄 **Extract** structured data from URLs  
+Supporting summaries, Markdown, or cleaned text. Transform any webpage into LLM-ready data with automatic content cleaning, format conversion, and intelligent text extraction that preserves structure and meaning.
 
-### Tavily provides fast, reliable APIs that let developers easily:
+### 🗺️ **Map** the web into graphs
+Get thousands of URLs and their connections in one request. Discover content relationships, site hierarchies, and linked data networks to understand how information connects across the web.
 
-🔍 **Search** the web for information — optimized for relevancy and low latency  
-📄 **Extract** structured data from URLs — supporting summaries, Markdown, or cleaned text  
-🗺️ **Map** the web into graphs — get thousands of URLs and their connections in one request  
-🕸️ **Crawl** entire domains at scale — optimized for intelligent URL decisions and results   
+### 🕸️ **Crawl** entire domains at scale
+Optimized for intelligent URL decisions and results. Navigate complex websites with smart crawling strategies that respect robots.txt, handle dynamic content, and efficiently discover all accessible pages.
 
 Built specifically for **AI agents** and **RAG workflows**.
-
-</td>
-</tr>
-</table>
 
 
 ---

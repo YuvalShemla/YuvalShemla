@@ -12,8 +12,11 @@
 <div align="center">
 
 <p>
+<a href="https://status.tavily.com/">
+  <img src="https://img.shields.io/badge/Status_•_99.57%25_Uptime-00d084?style=for-the-badge&logo=statuspage&logoColor=white" alt="API Status"/>
+</a>
 <a href="https://pepy.tech/projects/tavily-python">
-  <img src="https://img.shields.io/pypi/dt/tavily-python?style=for-the-badge&logo=python&logoColor=white&label=Python%20Downloads&color=f78166" alt="Python Downloads"/>
+  <img src="https://static.pepy.tech/badge/tavily-python" alt="Python Downloads"/>
 </a>
 <a href="https://www.npmjs.com/package/@tavily/core">
   <img src="https://img.shields.io/npm/dt/@tavily/core?style=for-the-badge&logo=npm&logoColor=white&label=NPM%20Downloads&color=CB3837" alt="NPM Downloads"/>
@@ -47,7 +50,7 @@
 </td>
 <td width="70%">
 
-**Tavily provides fast, reliable APIs that let developers easily:
+### Tavily provides fast, reliable APIs that let developers easily:
 
 🔍 **Search** the web for information — optimized for relevancy and low latency  
 📄 **Extract** structured data from URLs — supporting summaries, Markdown, or cleaned text  

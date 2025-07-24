@@ -1,6 +1,6 @@
 <!-- Hero Section -->
 
-<h1 align="center">Tavily — Making the web instantly accessible for AI 🚀</h1>
+<h1 align="center"><img src="assets/tavily.png" alt="Tavily" width="60" style="vertical-align: middle; margin-right: 10px;"> — Making the web instantly accessible for AI 🚀</h1>
 <p align="center"><em>Search • Extract • Map • Crawl</em></p>
 
 <p align="center">
@@ -13,10 +13,10 @@
 
 <p>
 <a href="https://status.tavily.com/">
-  <img src="https://img.shields.io/badge/Status_•_99.57%25_Uptime-00d084?style=for-the-badge&logo=statuspage&logoColor=white" alt="API Status"/>
+  <img src="https://img.shields.io/badge/API%20Status-00d084?style=for-the-badge&logo=statuspage&logoColor=white" alt="API Status"/>
 </a>
 <a href="https://pepy.tech/project/tavily-python">
-  <img src="https://img.shields.io/pypi/dm/tavily-python?style=for-the-badge&logo=python&logoColor=white&label=Python%20Downloads&color=f78166" alt="Python Downloads"/>
+  <img src="https://img.shields.io/pepy/total/tavily-python?style=for-the-badge&logo=python&logoColor=white&label=Python%20Downloads&color=f78166" alt="Python Downloads"/>
 </a>
 <a href="https://www.npmjs.com/package/@tavily/core">
   <img src="https://img.shields.io/npm/dt/@tavily/core?style=for-the-badge&logo=npm&logoColor=white&label=NPM%20Downloads&color=CB3837" alt="NPM Downloads"/>
